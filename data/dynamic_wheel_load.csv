@@ -1,0 +1,1001 @@
+driving_condition,vehicle_speed,steering_angle,acceleration,road_surface_index,wheel_load
+Bumpy Terrain / Uneven Surface,28.88,2.32,1.26,0.91,2951.58
+Urban Stop-and-Go,22.1,0.74,2.71,0.4,3089.11
+Bumpy Terrain / Uneven Surface,40.22,1.57,1.09,0.99,2782.38
+Aggressive Acceleration/Braking,122.14,2.97,5.29,0.34,3879.05
+Racetrack High-Speed Maneuver,173.99,4.42,2.2,0.12,3777.84
+Urban Stop-and-Go,23.16,1.19,2.4,0.45,3150.91
+Sharp Cornering / Drift,85.39,45.33,1.45,0.48,3220.09
+Bumpy Terrain / Uneven Surface,47.38,2.17,1.18,0.82,2754.83
+Sharp Cornering / Drift,113.41,50.35,1.53,0.46,3141.91
+Urban Stop-and-Go,27.91,1.44,3.45,0.31,3290.6
+Sharp Cornering / Drift,74.92,50.5,1.45,0.47,3058.96
+Aggressive Acceleration/Braking,96.39,3.64,3.07,0.39,4113.9
+Aggressive Acceleration/Braking,125.42,4.54,4.47,0.3,4212.93
+Sharp Cornering / Drift,90.87,43.5,1.53,0.58,2901.24
+Urban Stop-and-Go,17.91,1.1,3.07,0.44,3272.97
+Bumpy Terrain / Uneven Surface,49.15,2.33,1.09,0.97,2876.99
+Aggressive Acceleration/Braking,108.39,2.64,5.01,0.25,3848.85
+Aggressive Acceleration/Braking,139.11,2.71,2.64,0.24,3969.1
+Aggressive Acceleration/Braking,106.4,2.18,4.16,0.31,3786.03
+Bumpy Terrain / Uneven Surface,42.58,1.93,0.82,0.79,2796.02
+Racetrack High-Speed Maneuver,175.58,4.83,3.12,0.24,3286.03
+Urban Stop-and-Go,26.7,1.0,3.38,0.45,3062.02
+Aggressive Acceleration/Braking,130.92,2.38,4.75,0.28,3895.62
+Racetrack High-Speed Maneuver,180.28,2.61,2.89,0.17,3564.72
+Bumpy Terrain / Uneven Surface,40.09,1.63,1.33,0.75,2616.57
+Racetrack High-Speed Maneuver,184.28,0.06,2.74,0.25,3638.97
+Sharp Cornering / Drift,98.14,38.85,1.57,0.51,3230.71
+Sharp Cornering / Drift,100.0,45.76,1.32,0.54,3015.34
+Aggressive Acceleration/Braking,115.72,4.07,5.1,0.27,4257.72
+Racetrack High-Speed Maneuver,181.75,2.57,3.02,0.14,3698.77
+Racetrack High-Speed Maneuver,179.95,4.23,2.27,0.25,3333.13
+Aggressive Acceleration/Braking,132.33,4.9,4.33,0.25,3749.25
+Urban Stop-and-Go,29.55,0.99,2.03,0.43,3098.32
+Racetrack High-Speed Maneuver,186.26,3.29,1.96,0.29,3572.37
+Urban Stop-and-Go,28.03,0.83,3.3,0.41,2966.69
+Bumpy Terrain / Uneven Surface,35.48,2.78,1.41,0.8,2748.68
+Sharp Cornering / Drift,97.1,45.46,1.69,0.42,3276.29
+Sharp Cornering / Drift,81.45,39.86,1.76,0.43,3055.07
+Urban Stop-and-Go,21.67,0.15,3.33,0.32,3027.69
+Racetrack High-Speed Maneuver,168.17,5.99,2.42,0.11,3396.92
+Aggressive Acceleration/Braking,102.71,1.5,4.62,0.21,3728.81
+Racetrack High-Speed Maneuver,181.5,5.28,2.68,0.17,3217.95
+Urban Stop-and-Go,31.05,0.92,2.81,0.44,3045.05
+Bumpy Terrain / Uneven Surface,26.92,0.01,1.03,0.76,2926.0
+Racetrack High-Speed Maneuver,176.32,5.31,2.44,0.15,3624.76
+Racetrack High-Speed Maneuver,167.39,6.84,3.56,0.18,3654.87
+Bumpy Terrain / Uneven Surface,28.16,2.23,1.13,0.73,2677.71
+Racetrack High-Speed Maneuver,186.99,6.2,2.26,0.23,3185.93
+Sharp Cornering / Drift,105.43,51.62,1.46,0.53,3053.43
+Sharp Cornering / Drift,121.87,45.42,1.79,0.59,3254.45
+Sharp Cornering / Drift,90.7,43.07,1.53,0.48,3166.21
+Bumpy Terrain / Uneven Surface,42.27,1.73,1.29,0.95,2970.44
+Sharp Cornering / Drift,83.31,40.66,1.34,0.41,2973.26
+Sharp Cornering / Drift,85.14,46.04,1.77,0.4,3053.55
+Sharp Cornering / Drift,89.72,36.42,1.19,0.59,3232.65
+Bumpy Terrain / Uneven Surface,44.49,1.92,0.76,0.87,3008.43
+Aggressive Acceleration/Braking,119.69,3.12,5.39,0.27,3781.69
+Urban Stop-and-Go,28.82,0.44,2.57,0.38,3294.87
+Racetrack High-Speed Maneuver,193.05,5.04,2.84,0.18,3453.46
+Bumpy Terrain / Uneven Surface,43.92,1.88,1.16,0.85,3103.71
+Urban Stop-and-Go,26.01,0.6,2.28,0.49,3232.32
+Racetrack High-Speed Maneuver,198.14,5.81,2.55,0.27,3512.41
+Urban Stop-and-Go,22.47,0.32,2.21,0.42,3209.48
+Urban Stop-and-Go,30.77,0.76,2.67,0.32,3363.21
+Urban Stop-and-Go,32.39,0.56,2.6,0.39,3059.36
+Urban Stop-and-Go,24.91,0.86,3.16,0.45,3100.73
+Urban Stop-and-Go,22.3,0.29,2.58,0.41,3194.57
+Urban Stop-and-Go,25.35,1.49,3.24,0.4,3206.52
+Racetrack High-Speed Maneuver,172.98,3.07,3.22,0.28,3394.75
+Sharp Cornering / Drift,111.9,40.96,1.25,0.49,3040.06
+Sharp Cornering / Drift,82.43,40.62,1.1,0.49,3022.88
+Racetrack High-Speed Maneuver,173.55,1.8,1.74,0.13,3601.95
+Aggressive Acceleration/Braking,131.13,4.48,4.99,0.37,3873.54
+Urban Stop-and-Go,23.45,0.42,2.95,0.5,3383.25
+Aggressive Acceleration/Braking,94.3,4.35,4.42,0.28,4147.56
+Racetrack High-Speed Maneuver,183.42,8.82,2.66,0.22,3528.99
+Urban Stop-and-Go,23.43,0.2,2.32,0.43,3264.26
+Sharp Cornering / Drift,81.72,43.48,1.57,0.55,3304.74
+Aggressive Acceleration/Braking,134.06,2.43,4.79,0.3,4168.42
+Urban Stop-and-Go,32.45,1.44,2.78,0.3,3158.92
+Sharp Cornering / Drift,72.69,52.22,1.77,0.47,3086.29
+Racetrack High-Speed Maneuver,175.13,7.67,2.99,0.29,3549.61
+Bumpy Terrain / Uneven Surface,52.12,1.86,1.23,0.8,2727.8
+Aggressive Acceleration/Braking,92.71,3.91,2.98,0.32,4306.43
+Aggressive Acceleration/Braking,125.5,2.06,4.14,0.38,3688.16
+Aggressive Acceleration/Braking,127.02,3.02,3.54,0.36,4000.82
+Sharp Cornering / Drift,81.85,42.2,1.07,0.47,3080.85
+Sharp Cornering / Drift,88.98,45.21,1.65,0.42,3220.46
+Aggressive Acceleration/Braking,132.77,2.38,3.98,0.24,4015.9
+Sharp Cornering / Drift,91.92,52.99,1.42,0.43,3112.74
+Aggressive Acceleration/Braking,128.65,3.31,6.66,0.22,4123.91
+Sharp Cornering / Drift,78.3,36.7,1.59,0.44,3051.12
+Racetrack High-Speed Maneuver,164.39,5.41,2.33,0.17,3183.4
+Racetrack High-Speed Maneuver,171.26,4.99,3.69,0.25,3652.18
+Racetrack High-Speed Maneuver,159.92,7.13,2.86,0.22,3456.59
+Aggressive Acceleration/Braking,99.02,3.56,4.04,0.24,3802.57
+Racetrack High-Speed Maneuver,180.49,3.34,2.64,0.12,3492.46
+Sharp Cornering / Drift,97.97,45.73,2.04,0.56,3092.55
+Sharp Cornering / Drift,110.43,53.1,1.78,0.44,3023.83
+Bumpy Terrain / Uneven Surface,42.8,-0.74,1.11,0.88,2753.99
+Urban Stop-and-Go,28.82,1.01,3.44,0.37,2997.82
+Sharp Cornering / Drift,109.97,54.92,1.69,0.42,2998.74
+Urban Stop-and-Go,36.95,0.7,2.89,0.47,3219.14
+Bumpy Terrain / Uneven Surface,41.7,2.09,1.3,0.95,3037.02
+Aggressive Acceleration/Braking,111.08,3.59,4.28,0.36,3836.19
+Aggressive Acceleration/Braking,131.14,3.24,5.07,0.34,3558.54
+Aggressive Acceleration/Braking,130.62,5.21,5.9,0.27,3584.1
+Sharp Cornering / Drift,98.92,45.48,1.23,0.59,3128.69
+Aggressive Acceleration/Braking,106.88,2.6,4.86,0.31,4149.47
+Aggressive Acceleration/Braking,112.69,3.4,3.74,0.35,3736.6
+Bumpy Terrain / Uneven Surface,55.1,2.4,1.13,0.95,2924.37
+Bumpy Terrain / Uneven Surface,62.57,1.07,1.83,0.85,2827.34
+Bumpy Terrain / Uneven Surface,49.64,2.97,1.48,0.86,2951.29
+Aggressive Acceleration/Braking,137.73,3.36,4.42,0.25,3965.28
+Sharp Cornering / Drift,91.81,58.22,1.44,0.57,3104.69
+Bumpy Terrain / Uneven Surface,52.05,2.67,1.07,0.72,2772.48
+Racetrack High-Speed Maneuver,179.1,6.56,3.77,0.18,3578.59
+Racetrack High-Speed Maneuver,172.03,6.32,2.74,0.12,3697.83
+Bumpy Terrain / Uneven Surface,48.23,2.07,0.94,0.92,2605.74
+Racetrack High-Speed Maneuver,175.57,5.17,2.4,0.22,3546.95
+Bumpy Terrain / Uneven Surface,48.04,1.84,1.42,0.89,2523.26
+Bumpy Terrain / Uneven Surface,40.78,0.52,1.19,0.87,2864.42
+Bumpy Terrain / Uneven Surface,26.6,2.15,0.99,0.82,2632.31
+Aggressive Acceleration/Braking,122.97,2.86,4.1,0.21,3790.63
+Aggressive Acceleration/Braking,140.83,0.34,3.05,0.31,3651.87
+Bumpy Terrain / Uneven Surface,42.9,1.75,1.17,0.78,2879.16
+Sharp Cornering / Drift,86.38,44.65,1.65,0.53,3022.73
+Racetrack High-Speed Maneuver,163.77,5.68,2.51,0.22,3288.37
+Racetrack High-Speed Maneuver,174.75,5.98,1.89,0.12,3606.95
+Aggressive Acceleration/Braking,115.86,1.94,4.08,0.33,3848.58
+Racetrack High-Speed Maneuver,183.26,2.5,2.96,0.26,3472.26
+Bumpy Terrain / Uneven Surface,50.05,1.49,1.13,0.95,2785.48
+Urban Stop-and-Go,31.23,-0.08,2.12,0.49,3134.61
+Bumpy Terrain / Uneven Surface,49.72,1.97,1.13,0.71,3001.91
+Racetrack High-Speed Maneuver,201.55,6.34,2.19,0.27,3437.28
+Bumpy Terrain / Uneven Surface,51.03,3.15,1.22,0.94,2996.81
+Racetrack High-Speed Maneuver,184.08,1.59,3.01,0.14,3570.89
+Sharp Cornering / Drift,85.76,41.77,1.77,0.45,3008.35
+Urban Stop-and-Go,19.98,1.26,2.92,0.38,3296.79
+Sharp Cornering / Drift,71.45,40.05,1.54,0.41,3077.75
+Aggressive Acceleration/Braking,106.15,1.65,3.82,0.31,4110.73
+Sharp Cornering / Drift,95.2,44.41,1.49,0.45,2988.09
+Bumpy Terrain / Uneven Surface,42.84,1.72,1.27,0.84,2642.68
+Racetrack High-Speed Maneuver,181.8,4.33,3.49,0.19,3492.91
+Aggressive Acceleration/Braking,127.5,3.53,3.74,0.32,4085.9
+Aggressive Acceleration/Braking,134.79,2.41,4.65,0.22,4289.17
+Aggressive Acceleration/Braking,132.25,3.62,5.4,0.37,4112.44
+Racetrack High-Speed Maneuver,182.67,6.47,2.36,0.23,3518.31
+Sharp Cornering / Drift,77.49,58.03,1.28,0.55,3063.85
+Aggressive Acceleration/Braking,119.41,3.68,4.52,0.26,3905.95
+Sharp Cornering / Drift,103.48,51.49,1.77,0.5,2898.81
+Aggressive Acceleration/Braking,104.36,4.28,4.32,0.26,3927.0
+Racetrack High-Speed Maneuver,200.42,5.97,2.57,0.19,3757.04
+Bumpy Terrain / Uneven Surface,40.82,3.07,1.1,0.84,3011.4
+Racetrack High-Speed Maneuver,163.95,6.14,2.1,0.17,3469.88
+Bumpy Terrain / Uneven Surface,31.27,2.79,1.14,0.79,2679.28
+Bumpy Terrain / Uneven Surface,46.67,3.61,1.29,0.71,2762.54
+Racetrack High-Speed Maneuver,170.47,4.45,2.78,0.3,3270.12
+Aggressive Acceleration/Braking,118.54,3.05,5.3,0.25,3833.68
+Aggressive Acceleration/Braking,96.45,3.07,4.14,0.24,3780.22
+Aggressive Acceleration/Braking,127.03,3.51,3.63,0.3,4014.3
+Bumpy Terrain / Uneven Surface,54.21,1.43,1.03,0.94,2870.71
+Urban Stop-and-Go,26.01,0.24,3.77,0.32,3415.51
+Racetrack High-Speed Maneuver,165.06,3.57,2.2,0.27,3495.36
+Sharp Cornering / Drift,95.43,50.42,1.24,0.48,3110.47
+Aggressive Acceleration/Braking,119.5,4.79,4.14,0.37,3944.76
+Urban Stop-and-Go,37.63,0.73,2.76,0.44,3325.3
+Aggressive Acceleration/Braking,126.14,3.64,5.27,0.25,3912.72
+Aggressive Acceleration/Braking,126.08,3.72,4.85,0.34,4071.49
+Aggressive Acceleration/Braking,110.26,3.48,4.24,0.35,3733.29
+Sharp Cornering / Drift,94.18,47.0,1.43,0.46,3100.34
+Aggressive Acceleration/Braking,120.37,3.09,5.03,0.31,3629.95
+Aggressive Acceleration/Braking,114.14,2.33,4.47,0.37,3834.02
+Bumpy Terrain / Uneven Surface,46.08,2.19,1.11,0.79,2829.11
+Racetrack High-Speed Maneuver,187.52,6.95,2.15,0.11,3493.76
+Sharp Cornering / Drift,93.67,42.37,1.46,0.55,2896.48
+Sharp Cornering / Drift,96.78,44.76,1.89,0.46,3110.77
+Sharp Cornering / Drift,82.77,48.66,1.63,0.57,3124.33
+Bumpy Terrain / Uneven Surface,24.74,1.31,1.19,0.97,2836.5
+Sharp Cornering / Drift,77.48,52.22,1.48,0.59,3211.73
+Racetrack High-Speed Maneuver,183.43,5.91,2.78,0.25,3567.16
+Aggressive Acceleration/Braking,110.25,3.94,4.39,0.2,3631.75
+Racetrack High-Speed Maneuver,165.74,6.21,1.76,0.13,3547.46
+Urban Stop-and-Go,29.2,0.67,2.78,0.3,2973.26
+Sharp Cornering / Drift,80.63,53.09,1.86,0.59,3174.21
+Racetrack High-Speed Maneuver,179.76,3.86,2.37,0.3,3439.51
+Bumpy Terrain / Uneven Surface,45.25,3.78,1.02,0.81,2805.65
+Racetrack High-Speed Maneuver,175.29,7.15,2.82,0.26,3353.19
+Sharp Cornering / Drift,103.99,49.62,1.52,0.54,3035.31
+Sharp Cornering / Drift,102.65,47.8,1.4,0.53,3341.34
+Bumpy Terrain / Uneven Surface,53.51,2.46,1.08,0.75,2796.38
+Aggressive Acceleration/Braking,129.75,4.57,4.29,0.32,4332.73
+Aggressive Acceleration/Braking,127.84,2.43,4.48,0.31,4328.45
+Sharp Cornering / Drift,76.89,50.99,1.35,0.42,3409.4
+Aggressive Acceleration/Braking,112.47,3.21,5.26,0.35,3877.85
+Urban Stop-and-Go,26.92,1.52,3.44,0.4,3292.17
+Sharp Cornering / Drift,92.24,50.24,2.01,0.5,3054.11
+Sharp Cornering / Drift,103.17,47.2,1.23,0.48,2963.7
+Sharp Cornering / Drift,103.77,48.89,1.62,0.58,3031.44
+Sharp Cornering / Drift,93.24,43.54,1.0,0.57,3094.96
+Racetrack High-Speed Maneuver,173.14,5.55,1.84,0.18,3660.96
+Aggressive Acceleration/Braking,100.58,4.16,4.17,0.39,3969.3
+Aggressive Acceleration/Braking,117.74,4.0,4.09,0.33,3509.56
+Racetrack High-Speed Maneuver,164.43,4.14,3.25,0.13,3627.53
+Bumpy Terrain / Uneven Surface,54.05,0.39,1.3,0.93,2476.92
+Bumpy Terrain / Uneven Surface,50.95,1.84,1.52,0.71,3146.17
+Sharp Cornering / Drift,86.78,42.74,1.54,0.44,3052.23
+Urban Stop-and-Go,24.05,1.22,2.71,0.33,3201.12
+Urban Stop-and-Go,34.86,0.89,3.03,0.35,3248.01
+Aggressive Acceleration/Braking,151.33,2.86,5.28,0.24,3692.02
+Sharp Cornering / Drift,96.0,40.95,1.36,0.59,3040.62
+Sharp Cornering / Drift,88.97,44.87,1.7,0.57,3048.31
+Racetrack High-Speed Maneuver,191.06,7.37,2.82,0.18,3328.55
+Urban Stop-and-Go,15.75,1.47,3.17,0.36,3066.6
+Racetrack High-Speed Maneuver,190.05,4.5,2.67,0.25,3715.28
+Bumpy Terrain / Uneven Surface,52.23,2.69,1.18,0.97,2915.17
+Urban Stop-and-Go,23.51,1.69,2.92,0.41,3215.07
+Racetrack High-Speed Maneuver,191.09,2.08,3.09,0.18,3804.25
+Urban Stop-and-Go,17.24,0.85,2.35,0.31,3127.88
+Aggressive Acceleration/Braking,126.77,1.95,4.5,0.31,4224.09
+Sharp Cornering / Drift,85.46,44.9,1.15,0.48,2946.72
+Urban Stop-and-Go,24.25,0.18,3.51,0.45,2937.71
+Bumpy Terrain / Uneven Surface,47.59,2.28,1.22,0.72,2790.61
+Urban Stop-and-Go,18.01,0.95,3.2,0.4,3066.8
+Aggressive Acceleration/Braking,120.87,3.77,3.92,0.34,3932.7
+Sharp Cornering / Drift,83.97,37.07,1.46,0.54,3084.08
+Sharp Cornering / Drift,84.6,47.57,1.78,0.44,3033.79
+Bumpy Terrain / Uneven Surface,31.77,1.85,1.11,0.86,2972.85
+Aggressive Acceleration/Braking,158.19,3.41,4.91,0.23,4132.14
+Racetrack High-Speed Maneuver,167.56,3.61,2.14,0.26,3634.24
+Bumpy Terrain / Uneven Surface,50.29,2.57,1.09,0.83,2864.83
+Urban Stop-and-Go,27.62,0.63,2.82,0.32,3254.42
+Urban Stop-and-Go,31.12,1.81,2.23,0.38,3232.13
+Urban Stop-and-Go,28.33,0.23,2.69,0.39,3427.58
+Racetrack High-Speed Maneuver,185.69,8.26,2.31,0.12,3469.46
+Racetrack High-Speed Maneuver,163.68,8.16,1.78,0.22,3316.66
+Urban Stop-and-Go,21.2,1.02,2.69,0.41,3284.16
+Sharp Cornering / Drift,79.05,48.66,1.09,0.41,3081.09
+Bumpy Terrain / Uneven Surface,46.95,3.95,1.15,0.72,3059.03
+Bumpy Terrain / Uneven Surface,53.11,2.69,1.13,0.83,2621.54
+Bumpy Terrain / Uneven Surface,53.14,0.79,1.09,0.75,2588.93
+Urban Stop-and-Go,29.33,1.38,3.39,0.32,3061.38
+Sharp Cornering / Drift,94.25,46.68,1.55,0.43,3346.57
+Urban Stop-and-Go,21.07,0.33,2.08,0.38,3260.96
+Sharp Cornering / Drift,93.89,57.46,1.5,0.6,3183.85
+Urban Stop-and-Go,25.13,-0.23,3.44,0.43,2924.72
+Sharp Cornering / Drift,92.67,46.61,1.3,0.42,3199.2
+Urban Stop-and-Go,28.56,1.06,2.64,0.36,3515.51
+Racetrack High-Speed Maneuver,193.9,6.12,2.51,0.18,3303.22
+Racetrack High-Speed Maneuver,172.0,5.7,2.98,0.15,2991.74
+Urban Stop-and-Go,27.54,1.03,2.1,0.4,3122.42
+Sharp Cornering / Drift,97.26,42.71,1.0,0.48,3225.64
+Urban Stop-and-Go,23.93,1.75,3.07,0.5,3159.55
+Aggressive Acceleration/Braking,109.36,3.85,4.88,0.32,3715.51
+Bumpy Terrain / Uneven Surface,24.66,2.91,1.3,0.83,3143.3
+Urban Stop-and-Go,24.36,1.49,2.75,0.38,3059.47
+Urban Stop-and-Go,27.09,0.95,2.72,0.38,3153.27
+Urban Stop-and-Go,22.27,1.2,2.26,0.3,3222.0
+Sharp Cornering / Drift,78.06,47.56,1.08,0.53,3023.78
+Urban Stop-and-Go,19.03,0.98,3.58,0.4,3096.45
+Racetrack High-Speed Maneuver,190.12,5.64,2.75,0.13,3482.5
+Racetrack High-Speed Maneuver,184.65,5.33,2.66,0.15,3474.99
+Urban Stop-and-Go,24.91,1.66,2.53,0.35,2940.58
+Racetrack High-Speed Maneuver,180.32,3.49,2.73,0.2,3398.34
+Urban Stop-and-Go,28.97,1.61,2.94,0.31,3211.3
+Bumpy Terrain / Uneven Surface,31.98,3.3,1.0,0.93,2600.81
+Aggressive Acceleration/Braking,113.23,2.56,4.7,0.35,3758.43
+Sharp Cornering / Drift,96.07,51.56,1.12,0.42,3049.75
+Bumpy Terrain / Uneven Surface,46.42,3.22,1.08,0.99,2805.79
+Urban Stop-and-Go,24.63,0.47,2.98,0.48,3078.17
+Bumpy Terrain / Uneven Surface,42.3,1.09,1.15,0.87,2683.15
+Sharp Cornering / Drift,95.79,45.74,1.35,0.44,3066.85
+Racetrack High-Speed Maneuver,166.59,6.83,2.65,0.27,3539.88
+Racetrack High-Speed Maneuver,201.29,6.38,2.69,0.14,3739.87
+Aggressive Acceleration/Braking,136.87,2.2,4.71,0.35,3556.5
+Sharp Cornering / Drift,94.0,41.74,1.34,0.5,3158.64
+Bumpy Terrain / Uneven Surface,43.09,3.7,1.25,0.79,3190.25
+Aggressive Acceleration/Braking,135.03,3.21,3.66,0.31,3853.42
+Racetrack High-Speed Maneuver,185.39,5.68,2.07,0.28,3406.87
+Sharp Cornering / Drift,92.61,38.0,1.72,0.44,3244.65
+Racetrack High-Speed Maneuver,186.87,0.57,3.1,0.27,3512.46
+Bumpy Terrain / Uneven Surface,32.15,2.65,1.18,0.8,2862.93
+Aggressive Acceleration/Braking,118.41,4.22,3.75,0.28,3901.17
+Bumpy Terrain / Uneven Surface,45.89,2.34,0.86,0.82,3018.58
+Urban Stop-and-Go,22.92,0.41,3.49,0.4,3169.29
+Aggressive Acceleration/Braking,121.9,2.31,5.8,0.32,4277.32
+Sharp Cornering / Drift,106.06,52.81,1.2,0.54,3138.59
+Bumpy Terrain / Uneven Surface,46.96,2.96,1.22,0.83,3021.63
+Bumpy Terrain / Uneven Surface,43.61,1.42,1.07,0.72,2603.29
+Bumpy Terrain / Uneven Surface,41.9,2.58,1.57,0.94,2638.5
+Aggressive Acceleration/Braking,132.75,3.88,4.75,0.23,3909.73
+Aggressive Acceleration/Braking,122.11,1.23,4.73,0.25,3870.48
+Sharp Cornering / Drift,95.14,42.34,1.15,0.43,2812.77
+Bumpy Terrain / Uneven Surface,41.0,2.15,1.11,0.82,2748.09
+Bumpy Terrain / Uneven Surface,43.53,2.12,1.0,0.77,2666.13
+Bumpy Terrain / Uneven Surface,29.31,0.06,1.1,0.75,2907.11
+Bumpy Terrain / Uneven Surface,15.76,2.88,1.35,0.71,2757.8
+Aggressive Acceleration/Braking,121.0,3.52,3.41,0.35,3794.19
+Sharp Cornering / Drift,81.62,48.05,1.12,0.59,2992.65
+Bumpy Terrain / Uneven Surface,31.92,1.68,1.11,0.78,2718.72
+Racetrack High-Speed Maneuver,169.84,5.12,2.71,0.11,3603.97
+Racetrack High-Speed Maneuver,171.72,5.17,1.96,0.13,3061.8
+Sharp Cornering / Drift,78.76,48.25,1.99,0.46,3073.91
+Bumpy Terrain / Uneven Surface,40.72,1.98,1.2,0.8,3018.6
+Urban Stop-and-Go,22.59,0.52,3.06,0.34,3394.96
+Urban Stop-and-Go,20.13,1.23,3.79,0.41,3245.58
+Sharp Cornering / Drift,89.39,41.32,1.53,0.5,3188.13
+Bumpy Terrain / Uneven Surface,17.96,0.96,1.17,0.76,2668.42
+Bumpy Terrain / Uneven Surface,21.69,2.2,1.27,0.89,3005.26
+Racetrack High-Speed Maneuver,187.65,4.62,1.89,0.24,3517.66
+Bumpy Terrain / Uneven Surface,43.8,0.88,1.36,0.75,2759.21
+Racetrack High-Speed Maneuver,175.74,5.18,3.18,0.26,3380.82
+Urban Stop-and-Go,35.31,0.47,3.01,0.49,3369.47
+Urban Stop-and-Go,19.69,1.21,2.91,0.33,3318.29
+Aggressive Acceleration/Braking,110.95,3.28,4.13,0.39,3648.56
+Bumpy Terrain / Uneven Surface,42.71,2.3,1.56,0.79,2852.62
+Aggressive Acceleration/Braking,124.15,3.73,3.72,0.36,3732.03
+Bumpy Terrain / Uneven Surface,30.01,1.5,1.37,0.73,2882.01
+Urban Stop-and-Go,29.29,0.92,2.61,0.42,3273.04
+Racetrack High-Speed Maneuver,178.97,7.45,2.52,0.13,3520.33
+Sharp Cornering / Drift,101.95,39.39,1.38,0.57,3152.43
+Aggressive Acceleration/Braking,121.9,4.94,3.8,0.21,3764.45
+Urban Stop-and-Go,32.29,0.74,2.9,0.46,3236.02
+Bumpy Terrain / Uneven Surface,27.88,2.83,1.25,0.87,2897.56
+Aggressive Acceleration/Braking,96.59,1.57,4.1,0.23,3635.8
+Aggressive Acceleration/Braking,111.97,2.91,4.73,0.26,3938.1
+Racetrack High-Speed Maneuver,185.13,4.48,2.87,0.1,3592.31
+Racetrack High-Speed Maneuver,188.89,3.95,2.83,0.12,3442.03
+Urban Stop-and-Go,20.45,1.05,2.06,0.42,3164.45
+Aggressive Acceleration/Braking,131.18,2.11,4.04,0.38,3929.75
+Sharp Cornering / Drift,99.5,53.55,1.47,0.56,3083.12
+Bumpy Terrain / Uneven Surface,40.7,3.16,1.01,0.73,2835.76
+Urban Stop-and-Go,19.4,0.95,2.51,0.33,3143.77
+Urban Stop-and-Go,31.11,1.87,2.49,0.4,3293.94
+Bumpy Terrain / Uneven Surface,47.27,1.33,1.16,1.0,2537.5
+Racetrack High-Speed Maneuver,188.07,5.41,2.41,0.19,3261.08
+Urban Stop-and-Go,17.97,0.96,2.25,0.34,3291.21
+Urban Stop-and-Go,30.8,1.06,2.76,0.39,3293.05
+Urban Stop-and-Go,27.4,2.37,3.19,0.38,3178.34
+Urban Stop-and-Go,29.25,0.71,3.52,0.41,3210.36
+Urban Stop-and-Go,23.53,1.06,3.38,0.33,3189.53
+Bumpy Terrain / Uneven Surface,45.79,2.35,0.96,0.9,2925.32
+Racetrack High-Speed Maneuver,175.17,5.29,3.31,0.12,3634.53
+Racetrack High-Speed Maneuver,158.48,3.56,2.39,0.25,3351.92
+Racetrack High-Speed Maneuver,163.26,3.21,2.24,0.23,3725.87
+Sharp Cornering / Drift,101.76,36.33,1.56,0.57,3175.89
+Bumpy Terrain / Uneven Surface,53.31,2.76,1.46,1.0,2817.53
+Sharp Cornering / Drift,89.67,43.96,1.46,0.52,2911.82
+Sharp Cornering / Drift,88.25,37.57,1.81,0.48,3066.46
+Urban Stop-and-Go,20.28,0.45,2.87,0.46,3372.01
+Aggressive Acceleration/Braking,152.86,1.62,4.25,0.38,3946.43
+Sharp Cornering / Drift,87.28,44.63,1.67,0.5,2860.83
+Bumpy Terrain / Uneven Surface,28.94,1.79,1.14,0.75,2916.95
+Urban Stop-and-Go,13.25,1.17,3.22,0.32,3359.16
+Urban Stop-and-Go,31.11,1.06,3.76,0.32,3444.28
+Racetrack High-Speed Maneuver,179.54,2.71,2.5,0.29,3428.64
+Bumpy Terrain / Uneven Surface,38.86,1.84,1.17,0.82,2910.46
+Aggressive Acceleration/Braking,119.39,1.82,4.53,0.27,3889.83
+Bumpy Terrain / Uneven Surface,46.97,1.67,1.43,1.0,2855.45
+Urban Stop-and-Go,19.62,1.16,4.32,0.33,2983.33
+Urban Stop-and-Go,23.9,1.61,2.47,0.34,3095.19
+Racetrack High-Speed Maneuver,200.33,5.17,2.82,0.21,3423.69
+Racetrack High-Speed Maneuver,169.27,5.48,3.54,0.2,3362.09
+Aggressive Acceleration/Braking,130.65,3.86,3.77,0.36,3659.79
+Aggressive Acceleration/Braking,113.28,1.72,4.48,0.31,3786.46
+Aggressive Acceleration/Braking,123.87,1.98,3.32,0.29,4128.43
+Urban Stop-and-Go,26.63,1.81,3.08,0.39,3152.62
+Sharp Cornering / Drift,93.77,44.85,1.84,0.52,3094.86
+Sharp Cornering / Drift,122.55,38.78,0.96,0.52,3293.64
+Racetrack High-Speed Maneuver,193.63,3.34,2.45,0.19,3643.27
+Bumpy Terrain / Uneven Surface,38.93,3.39,1.0,0.79,2680.84
+Aggressive Acceleration/Braking,128.9,0.06,4.96,0.2,3938.95
+Urban Stop-and-Go,36.2,1.23,3.54,0.37,3258.79
+Aggressive Acceleration/Braking,134.3,3.51,5.01,0.35,4003.24
+Urban Stop-and-Go,27.33,1.24,3.17,0.32,3280.52
+Racetrack High-Speed Maneuver,170.4,6.95,2.74,0.23,3221.62
+Urban Stop-and-Go,25.15,1.3,2.77,0.4,3173.67
+Sharp Cornering / Drift,88.64,36.91,1.63,0.53,3024.45
+Bumpy Terrain / Uneven Surface,37.21,3.03,1.04,0.78,2729.38
+Urban Stop-and-Go,30.75,1.14,2.26,0.31,3230.93
+Aggressive Acceleration/Braking,140.41,1.69,2.39,0.32,3936.77
+Bumpy Terrain / Uneven Surface,44.25,4.22,0.89,0.79,2767.42
+Bumpy Terrain / Uneven Surface,43.92,1.49,1.19,0.79,2534.64
+Sharp Cornering / Drift,95.56,49.06,1.3,0.42,2946.16
+Racetrack High-Speed Maneuver,173.74,5.03,2.98,0.11,3345.07
+Sharp Cornering / Drift,69.27,42.85,1.56,0.57,2994.7
+Bumpy Terrain / Uneven Surface,42.63,2.19,1.37,0.81,2779.39
+Bumpy Terrain / Uneven Surface,32.51,2.34,1.22,0.98,2716.77
+Racetrack High-Speed Maneuver,185.22,3.37,2.6,0.25,3510.26
+Racetrack High-Speed Maneuver,183.98,5.32,2.41,0.23,3238.84
+Urban Stop-and-Go,24.3,0.77,3.0,0.39,3272.14
+Sharp Cornering / Drift,102.71,48.15,1.57,0.48,2967.39
+Sharp Cornering / Drift,96.22,39.31,1.81,0.44,3092.42
+Urban Stop-and-Go,28.36,0.92,3.19,0.49,3129.5
+Bumpy Terrain / Uneven Surface,55.48,1.24,1.24,0.79,2777.77
+Aggressive Acceleration/Braking,135.03,3.52,4.66,0.22,4195.98
+Sharp Cornering / Drift,87.71,40.03,0.73,0.51,3080.9
+Bumpy Terrain / Uneven Surface,39.81,1.74,1.2,0.9,2882.07
+Bumpy Terrain / Uneven Surface,23.04,1.67,1.11,0.96,2749.59
+Urban Stop-and-Go,24.04,0.65,2.44,0.39,3143.82
+Urban Stop-and-Go,31.22,0.59,3.31,0.41,3052.82
+Aggressive Acceleration/Braking,128.87,4.99,4.75,0.31,4053.7
+Racetrack High-Speed Maneuver,164.48,6.58,2.26,0.28,3440.37
+Urban Stop-and-Go,21.28,0.6,3.84,0.39,3187.09
+Sharp Cornering / Drift,91.52,45.13,1.56,0.53,2940.63
+Aggressive Acceleration/Braking,101.1,2.38,4.24,0.32,3836.46
+Sharp Cornering / Drift,78.63,40.3,1.51,0.58,3137.77
+Bumpy Terrain / Uneven Surface,51.23,2.52,1.17,0.92,2862.47
+Racetrack High-Speed Maneuver,183.3,6.24,1.96,0.29,3476.63
+Aggressive Acceleration/Braking,109.52,4.25,4.96,0.35,3936.93
+Sharp Cornering / Drift,88.3,38.43,1.83,0.5,3118.18
+Urban Stop-and-Go,22.85,1.29,2.2,0.39,3255.46
+Aggressive Acceleration/Braking,112.42,2.43,4.87,0.27,4051.88
+Racetrack High-Speed Maneuver,180.27,6.14,2.46,0.24,3313.5
+Racetrack High-Speed Maneuver,194.86,4.56,2.65,0.27,3658.2
+Bumpy Terrain / Uneven Surface,46.18,1.79,1.33,0.77,2609.59
+Bumpy Terrain / Uneven Surface,40.6,0.68,1.08,0.77,2914.12
+Urban Stop-and-Go,35.5,0.88,2.82,0.38,3122.29
+Aggressive Acceleration/Braking,119.89,3.62,2.47,0.33,4300.07
+Bumpy Terrain / Uneven Surface,42.48,2.15,1.22,0.81,2888.16
+Sharp Cornering / Drift,71.6,53.05,1.26,0.59,3174.61
+Sharp Cornering / Drift,79.15,48.54,2.01,0.51,3047.29
+Urban Stop-and-Go,33.09,1.05,2.55,0.48,3040.36
+Sharp Cornering / Drift,88.11,49.61,1.46,0.5,3251.12
+Bumpy Terrain / Uneven Surface,33.44,1.21,1.35,0.71,2556.24
+Racetrack High-Speed Maneuver,165.94,3.14,2.45,0.12,3655.09
+Aggressive Acceleration/Braking,112.82,3.96,5.23,0.33,4048.12
+Aggressive Acceleration/Braking,76.13,4.25,4.38,0.31,4033.23
+Racetrack High-Speed Maneuver,173.24,5.07,1.96,0.15,3337.13
+Aggressive Acceleration/Braking,136.6,2.09,3.74,0.35,4262.67
+Sharp Cornering / Drift,79.38,39.01,1.76,0.44,3157.96
+Aggressive Acceleration/Braking,130.58,2.25,3.68,0.28,3928.4
+Sharp Cornering / Drift,81.7,47.61,1.63,0.59,3240.16
+Sharp Cornering / Drift,67.59,43.53,1.54,0.43,3149.15
+Urban Stop-and-Go,25.17,0.52,1.85,0.49,3218.85
+Sharp Cornering / Drift,100.82,49.98,1.74,0.54,3092.58
+Urban Stop-and-Go,22.89,1.34,2.73,0.37,3264.8
+Bumpy Terrain / Uneven Surface,50.58,2.94,1.33,0.85,2813.2
+Aggressive Acceleration/Braking,139.37,-0.39,5.06,0.2,3855.95
+Aggressive Acceleration/Braking,97.23,2.64,5.12,0.31,4015.04
+Racetrack High-Speed Maneuver,156.67,7.7,2.41,0.12,3207.75
+Aggressive Acceleration/Braking,122.81,3.23,5.24,0.26,4198.72
+Aggressive Acceleration/Braking,108.27,3.0,4.8,0.37,3863.36
+Aggressive Acceleration/Braking,99.82,3.68,4.23,0.2,3815.5
+Urban Stop-and-Go,19.85,0.32,2.24,0.45,3333.52
+Urban Stop-and-Go,22.32,0.15,2.44,0.31,3348.3
+Bumpy Terrain / Uneven Surface,34.41,2.34,1.33,0.88,2899.21
+Bumpy Terrain / Uneven Surface,30.36,1.04,1.27,0.72,2792.7
+Urban Stop-and-Go,26.94,1.02,2.33,0.42,3228.72
+Racetrack High-Speed Maneuver,168.92,1.68,2.09,0.2,3400.58
+Sharp Cornering / Drift,99.48,38.57,1.53,0.42,3139.59
+Urban Stop-and-Go,33.83,0.69,2.56,0.41,3189.06
+Urban Stop-and-Go,29.06,0.43,3.41,0.36,3384.55
+Bumpy Terrain / Uneven Surface,61.55,1.02,0.91,0.72,3014.55
+Racetrack High-Speed Maneuver,180.44,4.49,2.34,0.29,3256.47
+Bumpy Terrain / Uneven Surface,47.58,3.46,1.03,0.9,2904.64
+Sharp Cornering / Drift,89.76,44.13,1.57,0.58,3063.05
+Bumpy Terrain / Uneven Surface,42.61,2.3,0.64,1.0,2887.37
+Bumpy Terrain / Uneven Surface,55.68,3.29,1.36,0.73,2654.01
+Racetrack High-Speed Maneuver,170.27,1.25,2.73,0.22,3297.57
+Sharp Cornering / Drift,87.29,49.46,0.95,0.56,3094.52
+Aggressive Acceleration/Braking,141.26,3.68,4.61,0.21,4242.39
+Sharp Cornering / Drift,76.24,43.3,1.32,0.57,3207.43
+Racetrack High-Speed Maneuver,183.04,6.44,2.38,0.23,3717.99
+Aggressive Acceleration/Braking,135.82,3.44,6.78,0.23,3889.42
+Bumpy Terrain / Uneven Surface,40.03,-0.7,1.29,0.76,3001.43
+Urban Stop-and-Go,22.63,0.98,2.66,0.44,3091.79
+Sharp Cornering / Drift,97.37,44.21,1.51,0.56,2999.61
+Bumpy Terrain / Uneven Surface,47.9,2.34,1.31,0.73,2945.23
+Urban Stop-and-Go,34.35,0.01,3.43,0.32,3096.01
+Racetrack High-Speed Maneuver,175.07,6.14,2.78,0.23,3590.96
+Racetrack High-Speed Maneuver,187.08,5.02,3.03,0.2,3178.96
+Racetrack High-Speed Maneuver,184.18,6.69,2.59,0.25,3524.7
+Racetrack High-Speed Maneuver,156.78,2.87,2.12,0.2,3721.65
+Urban Stop-and-Go,29.88,1.46,2.38,0.32,3206.59
+Racetrack High-Speed Maneuver,195.72,3.84,3.06,0.12,3775.09
+Sharp Cornering / Drift,75.82,48.0,1.46,0.45,3040.71
+Bumpy Terrain / Uneven Surface,42.59,2.04,1.5,0.96,2724.53
+Aggressive Acceleration/Braking,136.29,4.06,4.5,0.28,3640.57
+Racetrack High-Speed Maneuver,185.49,9.44,2.63,0.12,3362.47
+Urban Stop-and-Go,26.77,0.98,2.49,0.45,3203.89
+Aggressive Acceleration/Braking,120.57,1.55,4.29,0.36,3889.96
+Racetrack High-Speed Maneuver,170.93,8.42,2.37,0.24,3554.61
+Racetrack High-Speed Maneuver,189.15,7.15,2.39,0.27,3743.82
+Racetrack High-Speed Maneuver,159.14,4.63,2.38,0.14,3714.52
+Sharp Cornering / Drift,85.85,32.35,1.49,0.53,3080.15
+Sharp Cornering / Drift,89.57,45.29,1.75,0.59,2875.31
+Bumpy Terrain / Uneven Surface,43.61,2.03,1.36,1.0,2362.95
+Bumpy Terrain / Uneven Surface,29.22,1.31,0.95,0.72,2579.36
+Bumpy Terrain / Uneven Surface,57.62,1.72,1.46,0.7,2945.2
+Aggressive Acceleration/Braking,124.74,3.31,5.51,0.22,3622.22
+Racetrack High-Speed Maneuver,163.4,8.64,3.1,0.17,3912.52
+Sharp Cornering / Drift,96.69,40.41,1.97,0.47,2989.89
+Urban Stop-and-Go,22.56,0.66,2.37,0.45,3438.78
+Sharp Cornering / Drift,108.65,50.55,1.47,0.54,2978.29
+Aggressive Acceleration/Braking,125.84,1.77,5.16,0.31,4072.09
+Sharp Cornering / Drift,80.92,52.6,1.65,0.56,3203.06
+Racetrack High-Speed Maneuver,180.98,4.89,1.79,0.15,3665.76
+Bumpy Terrain / Uneven Surface,22.35,1.71,1.41,0.72,2874.5
+Urban Stop-and-Go,27.76,1.31,2.65,0.32,3269.84
+Urban Stop-and-Go,21.79,1.23,2.91,0.35,3021.53
+Urban Stop-and-Go,23.34,1.25,2.73,0.43,3208.03
+Racetrack High-Speed Maneuver,186.71,4.42,2.27,0.22,3596.69
+Aggressive Acceleration/Braking,131.35,3.61,3.79,0.2,3851.18
+Aggressive Acceleration/Braking,115.56,4.1,3.78,0.23,4122.67
+Aggressive Acceleration/Braking,93.73,1.47,4.03,0.33,3866.17
+Aggressive Acceleration/Braking,146.53,2.51,3.55,0.32,3789.36
+Aggressive Acceleration/Braking,116.9,3.56,3.47,0.4,3928.23
+Bumpy Terrain / Uneven Surface,51.41,1.98,1.34,0.85,2790.71
+Aggressive Acceleration/Braking,113.44,4.06,4.64,0.21,4030.48
+Aggressive Acceleration/Braking,135.17,4.34,3.98,0.33,3802.94
+Bumpy Terrain / Uneven Surface,26.64,1.61,1.22,0.84,2719.85
+Sharp Cornering / Drift,105.54,49.27,1.62,0.59,3146.33
+Aggressive Acceleration/Braking,126.58,3.13,4.65,0.37,4093.8
+Sharp Cornering / Drift,91.51,48.83,0.98,0.41,3211.29
+Urban Stop-and-Go,20.96,0.93,3.47,0.48,3231.35
+Aggressive Acceleration/Braking,126.43,2.66,4.38,0.35,3942.38
+Racetrack High-Speed Maneuver,182.53,6.64,2.48,0.27,3568.21
+Bumpy Terrain / Uneven Surface,31.8,0.06,1.53,0.97,2649.13
+Urban Stop-and-Go,23.97,0.63,2.91,0.35,3014.17
+Sharp Cornering / Drift,88.88,41.14,1.6,0.43,3102.05
+Bumpy Terrain / Uneven Surface,48.75,1.35,0.96,0.77,2643.69
+Bumpy Terrain / Uneven Surface,35.51,3.09,0.93,0.99,2649.53
+Sharp Cornering / Drift,86.21,46.66,1.76,0.43,3061.98
+Sharp Cornering / Drift,95.33,49.25,1.18,0.5,3136.43
+Sharp Cornering / Drift,78.34,45.09,1.07,0.5,3178.14
+Racetrack High-Speed Maneuver,183.13,4.92,3.27,0.16,3387.63
+Sharp Cornering / Drift,107.39,43.39,2.05,0.56,3181.42
+Sharp Cornering / Drift,93.94,35.36,1.42,0.44,3184.52
+Sharp Cornering / Drift,111.06,43.03,2.05,0.53,3158.7
+Racetrack High-Speed Maneuver,177.27,7.11,2.24,0.25,3205.36
+Urban Stop-and-Go,33.65,1.04,3.55,0.38,3204.6
+Bumpy Terrain / Uneven Surface,19.03,2.86,1.02,0.87,2860.31
+Bumpy Terrain / Uneven Surface,42.33,1.78,0.69,0.97,2761.84
+Urban Stop-and-Go,32.8,2.02,3.62,0.35,3132.55
+Sharp Cornering / Drift,82.82,43.85,1.85,0.56,3119.41
+Bumpy Terrain / Uneven Surface,28.98,2.68,1.28,0.77,2753.83
+Bumpy Terrain / Uneven Surface,45.35,3.23,1.07,0.84,2868.76
+Urban Stop-and-Go,24.84,0.55,2.53,0.35,3119.87
+Aggressive Acceleration/Braking,131.13,4.0,5.46,0.3,4021.45
+Urban Stop-and-Go,22.37,1.69,2.81,0.31,3245.96
+Urban Stop-and-Go,25.66,0.8,3.35,0.39,3064.75
+Bumpy Terrain / Uneven Surface,33.49,2.0,1.21,0.83,2723.18
+Racetrack High-Speed Maneuver,186.49,6.51,2.18,0.19,3331.47
+Urban Stop-and-Go,26.25,0.55,2.59,0.38,3134.45
+Sharp Cornering / Drift,104.29,41.93,1.6,0.45,3055.38
+Urban Stop-and-Go,26.01,1.11,2.9,0.36,3275.96
+Urban Stop-and-Go,25.49,1.65,2.64,0.37,3289.4
+Racetrack High-Speed Maneuver,167.67,2.99,2.56,0.22,3439.83
+Aggressive Acceleration/Braking,110.87,2.08,5.47,0.3,4232.01
+Sharp Cornering / Drift,87.48,48.25,2.08,0.51,3051.59
+Bumpy Terrain / Uneven Surface,29.12,0.72,1.18,0.78,2680.1
+Sharp Cornering / Drift,90.19,46.15,1.08,0.43,3078.27
+Bumpy Terrain / Uneven Surface,31.2,0.74,1.37,0.76,2784.21
+Sharp Cornering / Drift,92.64,48.63,1.26,0.46,3044.03
+Aggressive Acceleration/Braking,105.77,4.75,5.15,0.38,3852.69
+Bumpy Terrain / Uneven Surface,51.36,0.89,1.04,0.76,2708.71
+Sharp Cornering / Drift,100.19,46.46,1.38,0.5,3141.08
+Bumpy Terrain / Uneven Surface,39.37,0.15,1.36,0.83,2556.28
+Urban Stop-and-Go,15.97,1.69,2.79,0.34,3184.29
+Bumpy Terrain / Uneven Surface,30.88,2.19,1.21,0.91,2961.54
+Sharp Cornering / Drift,96.65,45.45,1.45,0.56,3069.34
+Sharp Cornering / Drift,78.7,57.06,1.95,0.41,3160.21
+Aggressive Acceleration/Braking,105.72,3.08,4.68,0.26,3651.65
+Urban Stop-and-Go,22.7,0.24,2.65,0.33,3290.87
+Bumpy Terrain / Uneven Surface,40.23,1.53,0.98,0.91,2833.19
+Sharp Cornering / Drift,94.3,47.17,0.85,0.47,3067.14
+Racetrack High-Speed Maneuver,169.22,3.73,2.47,0.2,3372.29
+Aggressive Acceleration/Braking,111.67,1.7,4.84,0.28,3992.33
+Racetrack High-Speed Maneuver,171.3,3.68,2.43,0.22,3386.17
+Urban Stop-and-Go,19.53,0.59,3.59,0.37,3384.27
+Racetrack High-Speed Maneuver,176.57,5.34,2.02,0.22,3469.01
+Aggressive Acceleration/Braking,121.14,2.82,3.64,0.34,4035.14
+Sharp Cornering / Drift,94.03,47.14,1.03,0.45,3237.98
+Racetrack High-Speed Maneuver,195.96,4.29,3.67,0.16,3793.28
+Bumpy Terrain / Uneven Surface,35.43,2.05,1.22,0.91,2572.4
+Aggressive Acceleration/Braking,120.21,1.42,4.75,0.39,3848.81
+Aggressive Acceleration/Braking,97.24,2.0,4.15,0.26,3847.35
+Sharp Cornering / Drift,82.67,54.09,1.73,0.43,3155.3
+Urban Stop-and-Go,23.02,0.87,3.0,0.39,3389.45
+Sharp Cornering / Drift,70.49,45.72,0.95,0.41,3175.97
+Aggressive Acceleration/Braking,128.07,3.83,3.75,0.25,4138.63
+Aggressive Acceleration/Braking,139.62,1.82,5.44,0.25,3805.13
+Aggressive Acceleration/Braking,117.33,1.64,3.26,0.24,3775.07
+Sharp Cornering / Drift,77.07,47.86,1.64,0.48,2913.02
+Bumpy Terrain / Uneven Surface,41.87,0.94,1.48,0.92,2759.47
+Sharp Cornering / Drift,100.83,42.17,1.33,0.45,3077.5
+Urban Stop-and-Go,23.13,0.75,2.7,0.31,3187.25
+Racetrack High-Speed Maneuver,173.09,7.09,2.91,0.17,3342.52
+Bumpy Terrain / Uneven Surface,40.41,2.44,1.39,0.78,2646.83
+Bumpy Terrain / Uneven Surface,52.1,1.73,1.08,0.77,2898.26
+Urban Stop-and-Go,17.79,1.43,2.53,0.43,3053.36
+Bumpy Terrain / Uneven Surface,10.93,1.63,0.99,0.86,2555.31
+Aggressive Acceleration/Braking,110.23,2.37,4.87,0.31,3847.71
+Racetrack High-Speed Maneuver,171.94,2.31,3.35,0.11,3370.24
+Bumpy Terrain / Uneven Surface,22.24,2.93,1.08,0.99,2911.73
+Bumpy Terrain / Uneven Surface,29.98,1.25,0.91,0.9,2724.79
+Racetrack High-Speed Maneuver,181.43,2.74,2.73,0.12,3812.19
+Bumpy Terrain / Uneven Surface,36.23,1.79,1.32,0.87,2967.31
+Urban Stop-and-Go,23.17,1.75,4.06,0.43,3085.59
+Urban Stop-and-Go,16.65,0.73,3.28,0.35,3491.51
+Racetrack High-Speed Maneuver,170.48,3.65,2.11,0.27,3624.53
+Bumpy Terrain / Uneven Surface,38.62,1.71,1.34,0.8,2791.68
+Racetrack High-Speed Maneuver,167.48,6.53,1.92,0.12,3591.36
+Sharp Cornering / Drift,87.14,34.43,1.44,0.49,3153.35
+Racetrack High-Speed Maneuver,191.95,5.96,2.47,0.26,3684.33
+Aggressive Acceleration/Braking,100.79,3.19,5.21,0.39,3649.02
+Urban Stop-and-Go,26.93,1.64,3.36,0.47,2947.19
+Sharp Cornering / Drift,88.27,48.86,1.63,0.46,3026.68
+Urban Stop-and-Go,25.56,1.08,3.59,0.49,3339.28
+Aggressive Acceleration/Braking,132.63,2.19,3.94,0.29,3824.92
+Bumpy Terrain / Uneven Surface,51.65,0.75,0.81,0.74,2906.31
+Bumpy Terrain / Uneven Surface,39.26,2.8,0.8,0.97,2798.29
+Aggressive Acceleration/Braking,129.55,2.67,3.69,0.22,3935.61
+Urban Stop-and-Go,25.4,1.28,2.57,0.41,3203.6
+Sharp Cornering / Drift,74.39,52.52,1.4,0.46,3078.83
+Aggressive Acceleration/Braking,108.06,2.82,3.13,0.3,3821.07
+Racetrack High-Speed Maneuver,196.76,3.11,1.92,0.13,3670.6
+Aggressive Acceleration/Braking,132.64,4.21,4.63,0.25,3701.45
+Bumpy Terrain / Uneven Surface,41.18,1.83,1.42,0.79,2909.55
+Urban Stop-and-Go,21.82,1.35,3.14,0.4,3019.61
+Aggressive Acceleration/Braking,158.32,2.36,3.9,0.21,3917.06
+Aggressive Acceleration/Braking,137.71,5.28,4.96,0.36,3645.92
+Sharp Cornering / Drift,109.71,44.9,1.25,0.52,2992.06
+Racetrack High-Speed Maneuver,180.39,5.82,2.15,0.29,3674.37
+Urban Stop-and-Go,19.87,1.62,2.52,0.45,3395.42
+Sharp Cornering / Drift,96.79,44.32,1.34,0.52,3065.91
+Racetrack High-Speed Maneuver,174.06,4.67,2.54,0.13,3180.69
+Bumpy Terrain / Uneven Surface,28.47,0.31,0.84,0.9,2596.68
+Bumpy Terrain / Uneven Surface,30.29,-0.24,1.52,0.74,2712.47
+Racetrack High-Speed Maneuver,179.23,2.61,3.23,0.18,3771.08
+Bumpy Terrain / Uneven Surface,31.61,1.5,1.16,0.89,2811.54
+Sharp Cornering / Drift,82.31,43.69,1.4,0.46,3048.58
+Bumpy Terrain / Uneven Surface,41.24,1.21,1.16,0.79,2920.59
+Aggressive Acceleration/Braking,116.67,1.85,3.97,0.39,3934.51
+Sharp Cornering / Drift,92.76,28.3,1.31,0.56,2999.13
+Bumpy Terrain / Uneven Surface,44.91,2.57,1.24,0.74,2785.17
+Sharp Cornering / Drift,105.42,37.1,1.46,0.48,3240.73
+Urban Stop-and-Go,26.99,0.76,2.23,0.47,3338.35
+Bumpy Terrain / Uneven Surface,34.1,2.84,1.17,0.89,2639.52
+Urban Stop-and-Go,24.11,0.32,3.18,0.47,3227.18
+Sharp Cornering / Drift,76.26,43.65,1.51,0.41,2926.51
+Sharp Cornering / Drift,94.44,50.51,1.64,0.48,3234.62
+Bumpy Terrain / Uneven Surface,37.67,1.96,1.12,0.95,2797.22
+Urban Stop-and-Go,32.0,1.28,2.23,0.43,3215.87
+Urban Stop-and-Go,20.7,1.41,2.17,0.47,3370.42
+Urban Stop-and-Go,13.12,0.83,2.9,0.4,3222.69
+Urban Stop-and-Go,25.24,0.79,3.1,0.34,3200.99
+Urban Stop-and-Go,28.04,1.26,3.03,0.39,3310.9
+Sharp Cornering / Drift,85.45,43.91,1.47,0.42,3091.91
+Racetrack High-Speed Maneuver,191.06,6.84,2.37,0.23,3424.8
+Racetrack High-Speed Maneuver,178.41,4.16,2.26,0.23,3717.53
+Bumpy Terrain / Uneven Surface,29.89,1.48,1.51,0.79,2899.74
+Urban Stop-and-Go,23.36,0.89,3.25,0.44,3135.76
+Urban Stop-and-Go,29.08,0.98,2.91,0.37,3157.2
+Aggressive Acceleration/Braking,113.07,3.91,4.58,0.35,3909.12
+Racetrack High-Speed Maneuver,193.66,6.49,2.41,0.14,3505.93
+Bumpy Terrain / Uneven Surface,34.46,3.6,1.44,0.94,2842.44
+Urban Stop-and-Go,26.53,1.39,3.98,0.42,3145.76
+Bumpy Terrain / Uneven Surface,30.34,3.63,1.08,0.9,2623.92
+Aggressive Acceleration/Braking,131.03,4.66,4.38,0.25,4003.97
+Urban Stop-and-Go,37.85,0.32,2.3,0.45,3240.64
+Aggressive Acceleration/Braking,138.07,2.38,3.37,0.34,3986.75
+Urban Stop-and-Go,18.5,0.81,2.45,0.39,3204.7
+Bumpy Terrain / Uneven Surface,34.69,0.43,1.27,0.79,3176.73
+Sharp Cornering / Drift,98.36,44.13,1.41,0.46,3080.18
+Sharp Cornering / Drift,81.09,44.69,1.76,0.48,3312.06
+Urban Stop-and-Go,28.75,0.35,2.98,0.32,2985.32
+Sharp Cornering / Drift,92.24,49.52,1.41,0.55,3231.2
+Aggressive Acceleration/Braking,107.59,1.83,4.23,0.36,3819.33
+Sharp Cornering / Drift,95.23,35.83,1.03,0.52,3286.27
+Aggressive Acceleration/Braking,97.66,3.09,4.0,0.36,3587.38
+Bumpy Terrain / Uneven Surface,53.37,3.18,1.18,0.87,2949.91
+Sharp Cornering / Drift,90.61,45.37,1.38,0.53,3068.42
+Racetrack High-Speed Maneuver,176.07,2.27,2.85,0.11,3463.47
+Sharp Cornering / Drift,94.75,45.99,1.86,0.42,3148.06
+Urban Stop-and-Go,30.02,0.65,3.38,0.49,3326.53
+Bumpy Terrain / Uneven Surface,39.25,2.49,1.48,0.81,2921.66
+Aggressive Acceleration/Braking,148.47,2.05,3.92,0.28,4052.81
+Aggressive Acceleration/Braking,132.32,3.05,4.83,0.36,3989.21
+Bumpy Terrain / Uneven Surface,24.92,0.84,1.2,0.73,2690.7
+Sharp Cornering / Drift,99.9,42.07,1.39,0.57,3171.73
+Aggressive Acceleration/Braking,109.49,3.88,4.2,0.21,4076.61
+Aggressive Acceleration/Braking,104.3,3.03,5.19,0.37,3776.96
+Aggressive Acceleration/Braking,118.07,3.34,5.34,0.36,4055.08
+Bumpy Terrain / Uneven Surface,49.47,1.3,1.05,0.89,2826.69
+Aggressive Acceleration/Braking,119.03,3.07,4.55,0.3,3869.95
+Bumpy Terrain / Uneven Surface,45.05,1.52,1.42,0.82,3013.59
+Urban Stop-and-Go,37.43,1.13,3.64,0.47,3181.79
+Bumpy Terrain / Uneven Surface,38.5,2.67,1.57,0.98,2757.84
+Racetrack High-Speed Maneuver,172.19,4.15,1.72,0.17,3634.66
+Aggressive Acceleration/Braking,135.98,4.45,3.86,0.39,3732.62
+Racetrack High-Speed Maneuver,179.11,5.26,1.86,0.13,3516.2
+Urban Stop-and-Go,21.64,0.94,2.7,0.39,2910.55
+Racetrack High-Speed Maneuver,164.47,8.49,3.2,0.14,3442.71
+Sharp Cornering / Drift,80.05,54.14,1.0,0.55,3071.45
+Urban Stop-and-Go,31.1,1.4,3.43,0.35,3143.83
+Aggressive Acceleration/Braking,98.86,2.59,4.84,0.23,4035.92
+Aggressive Acceleration/Braking,122.24,2.71,4.42,0.22,4048.08
+Bumpy Terrain / Uneven Surface,39.16,1.95,1.37,0.77,2950.22
+Bumpy Terrain / Uneven Surface,47.63,1.19,1.36,0.72,2586.23
+Urban Stop-and-Go,29.35,1.56,3.1,0.45,3219.93
+Aggressive Acceleration/Braking,120.56,2.5,4.95,0.26,3528.25
+Sharp Cornering / Drift,92.26,45.09,1.21,0.4,3230.35
+Bumpy Terrain / Uneven Surface,26.61,2.16,1.06,0.77,2783.35
+Urban Stop-and-Go,14.62,0.96,2.92,0.36,3160.8
+Racetrack High-Speed Maneuver,170.16,6.98,2.45,0.25,3306.38
+Bumpy Terrain / Uneven Surface,32.06,-0.77,1.14,0.95,2763.85
+Aggressive Acceleration/Braking,120.8,3.24,5.24,0.39,3902.07
+Aggressive Acceleration/Braking,105.99,3.61,5.38,0.33,3859.84
+Racetrack High-Speed Maneuver,170.06,5.84,2.07,0.18,3514.65
+Urban Stop-and-Go,21.6,0.59,3.4,0.32,3254.09
+Urban Stop-and-Go,27.02,0.73,3.66,0.37,3132.14
+Aggressive Acceleration/Braking,114.29,2.67,4.7,0.36,4072.36
+Racetrack High-Speed Maneuver,167.51,2.78,1.8,0.13,3698.03
+Sharp Cornering / Drift,95.14,54.34,1.37,0.59,2948.43
+Sharp Cornering / Drift,97.22,45.54,1.73,0.55,3350.46
+Bumpy Terrain / Uneven Surface,38.5,0.57,1.1,0.73,2874.05
+Urban Stop-and-Go,31.48,0.45,2.82,0.42,3181.84
+Aggressive Acceleration/Braking,98.57,3.22,3.42,0.37,3950.46
+Racetrack High-Speed Maneuver,187.21,3.83,2.11,0.21,3452.74
+Sharp Cornering / Drift,93.2,53.27,1.54,0.51,3199.61
+Sharp Cornering / Drift,80.72,50.35,1.11,0.58,3142.94
+Urban Stop-and-Go,26.91,0.93,3.31,0.48,3381.13
+Racetrack High-Speed Maneuver,179.91,1.02,2.7,0.12,3453.42
+Sharp Cornering / Drift,71.56,40.55,1.48,0.5,3153.63
+Sharp Cornering / Drift,91.06,49.12,1.32,0.46,2925.0
+Aggressive Acceleration/Braking,137.27,2.78,5.34,0.39,3788.94
+Bumpy Terrain / Uneven Surface,44.29,2.38,1.09,0.82,2780.49
+Sharp Cornering / Drift,79.7,57.0,1.38,0.53,3335.16
+Aggressive Acceleration/Braking,123.44,2.08,4.17,0.28,3896.97
+Aggressive Acceleration/Braking,118.69,3.55,5.16,0.31,3888.12
+Urban Stop-and-Go,32.67,1.5,3.07,0.39,3450.72
+Sharp Cornering / Drift,89.7,44.49,1.18,0.43,2941.64
+Sharp Cornering / Drift,94.74,41.4,1.96,0.55,3165.84
+Bumpy Terrain / Uneven Surface,22.75,1.26,1.21,0.85,2910.02
+Bumpy Terrain / Uneven Surface,36.51,1.23,1.28,0.82,2984.53
+Aggressive Acceleration/Braking,132.8,2.63,4.57,0.37,3871.14
+Aggressive Acceleration/Braking,131.8,2.46,5.08,0.22,4036.64
+Aggressive Acceleration/Braking,111.29,2.39,4.43,0.31,3852.1
+Sharp Cornering / Drift,82.68,54.45,1.51,0.45,3176.88
+Racetrack High-Speed Maneuver,185.8,6.09,2.15,0.13,3495.83
+Sharp Cornering / Drift,104.58,37.52,1.52,0.52,3112.41
+Urban Stop-and-Go,30.58,1.75,2.88,0.41,3500.2
+Aggressive Acceleration/Braking,126.23,2.34,4.09,0.35,4052.65
+Sharp Cornering / Drift,109.23,41.13,0.99,0.51,3052.87
+Sharp Cornering / Drift,74.85,40.99,1.73,0.57,3151.13
+Bumpy Terrain / Uneven Surface,41.38,1.5,1.16,0.9,2731.69
+Urban Stop-and-Go,36.95,1.19,2.95,0.39,3008.52
+Bumpy Terrain / Uneven Surface,32.85,1.39,1.52,0.72,2804.32
+Sharp Cornering / Drift,104.48,44.16,1.07,0.48,2912.28
+Racetrack High-Speed Maneuver,175.19,6.39,2.24,0.19,3486.79
+Sharp Cornering / Drift,102.9,38.55,1.86,0.58,2945.15
+Urban Stop-and-Go,26.09,0.84,3.14,0.44,3321.93
+Bumpy Terrain / Uneven Surface,44.58,2.86,1.02,0.78,2703.17
+Racetrack High-Speed Maneuver,178.28,3.28,1.88,0.11,3526.16
+Aggressive Acceleration/Braking,133.99,2.58,4.99,0.22,4462.93
+Aggressive Acceleration/Braking,123.38,4.67,4.8,0.2,4056.79
+Sharp Cornering / Drift,85.85,49.72,1.36,0.51,3141.14
+Aggressive Acceleration/Braking,123.75,3.81,4.22,0.24,3746.5
+Bumpy Terrain / Uneven Surface,28.11,3.05,1.31,0.84,2694.29
+Aggressive Acceleration/Braking,124.72,3.14,4.49,0.25,3925.2
+Racetrack High-Speed Maneuver,177.1,4.28,2.3,0.21,3720.71
+Urban Stop-and-Go,17.44,0.55,3.0,0.38,3133.12
+Bumpy Terrain / Uneven Surface,51.4,1.61,0.98,0.98,3013.08
+Bumpy Terrain / Uneven Surface,27.5,2.56,1.33,1.0,2830.23
+Aggressive Acceleration/Braking,129.74,3.81,4.39,0.26,3775.02
+Bumpy Terrain / Uneven Surface,38.67,1.63,0.91,0.89,2721.42
+Racetrack High-Speed Maneuver,178.0,5.46,3.07,0.18,3383.39
+Racetrack High-Speed Maneuver,176.19,3.92,2.71,0.15,3468.66
+Sharp Cornering / Drift,77.29,44.51,1.15,0.41,2931.84
+Aggressive Acceleration/Braking,146.94,3.8,4.95,0.25,3575.29
+Racetrack High-Speed Maneuver,190.7,7.54,2.44,0.3,3441.76
+Aggressive Acceleration/Braking,137.39,3.05,2.98,0.31,3797.49
+Urban Stop-and-Go,24.35,1.55,1.82,0.49,3138.21
+Racetrack High-Speed Maneuver,172.34,4.93,1.4,0.28,3697.95
+Sharp Cornering / Drift,92.23,51.31,0.94,0.49,3111.23
+Urban Stop-and-Go,30.97,1.78,3.03,0.44,3042.38
+Aggressive Acceleration/Braking,96.86,2.84,4.16,0.39,3706.75
+Urban Stop-and-Go,24.91,0.9,2.81,0.39,3182.27
+Sharp Cornering / Drift,80.28,49.91,1.47,0.52,2989.21
+Aggressive Acceleration/Braking,117.6,3.94,3.3,0.28,4427.54
+Racetrack High-Speed Maneuver,176.94,6.47,2.84,0.29,3527.38
+Bumpy Terrain / Uneven Surface,22.58,1.63,0.87,0.78,2890.69
+Racetrack High-Speed Maneuver,172.06,5.3,2.4,0.2,3324.03
+Bumpy Terrain / Uneven Surface,34.19,1.74,1.17,0.87,2864.51
+Racetrack High-Speed Maneuver,176.8,5.05,2.33,0.24,3253.62
+Racetrack High-Speed Maneuver,184.19,4.35,2.46,0.12,3477.87
+Urban Stop-and-Go,26.38,1.0,2.21,0.45,3362.67
+Aggressive Acceleration/Braking,119.06,2.82,5.51,0.27,3913.48
+Bumpy Terrain / Uneven Surface,32.4,1.28,0.86,0.7,2804.85
+Bumpy Terrain / Uneven Surface,52.17,2.05,1.25,0.9,2731.43
+Racetrack High-Speed Maneuver,190.57,5.4,3.32,0.17,3593.29
+Sharp Cornering / Drift,86.07,41.95,1.99,0.42,3161.01
+Aggressive Acceleration/Braking,131.39,2.71,4.46,0.26,3998.71
+Aggressive Acceleration/Braking,111.85,2.24,4.29,0.22,3813.87
+Racetrack High-Speed Maneuver,166.41,2.84,1.49,0.14,3484.81
+Bumpy Terrain / Uneven Surface,39.32,2.36,1.62,1.0,2573.22
+Bumpy Terrain / Uneven Surface,36.46,3.04,1.15,0.85,2799.7
+Urban Stop-and-Go,20.88,1.34,2.93,0.34,3344.61
+Sharp Cornering / Drift,74.82,44.55,1.66,0.42,3064.85
+Racetrack High-Speed Maneuver,189.09,3.4,1.93,0.27,3504.34
+Aggressive Acceleration/Braking,98.5,0.89,5.26,0.27,3703.16
+Bumpy Terrain / Uneven Surface,31.43,1.86,0.98,0.77,2874.73
+Racetrack High-Speed Maneuver,162.79,3.17,3.02,0.16,3614.03
+Aggressive Acceleration/Braking,113.01,1.21,5.15,0.4,4119.33
+Racetrack High-Speed Maneuver,181.61,3.15,1.3,0.18,3769.94
+Urban Stop-and-Go,33.96,1.07,3.09,0.44,3046.42
+Aggressive Acceleration/Braking,90.51,2.92,4.51,0.26,3631.18
+Sharp Cornering / Drift,109.42,35.32,1.38,0.43,2916.65
+Aggressive Acceleration/Braking,97.58,3.91,4.68,0.29,4059.17
+Racetrack High-Speed Maneuver,182.77,7.39,2.2,0.21,3814.69
+Sharp Cornering / Drift,83.28,46.12,0.98,0.51,3045.4
+Sharp Cornering / Drift,87.19,44.01,1.39,0.5,3363.14
+Urban Stop-and-Go,20.15,0.96,3.44,0.47,3243.34
+Urban Stop-and-Go,22.97,0.69,3.29,0.42,3182.07
+Sharp Cornering / Drift,117.66,46.34,1.43,0.49,2975.9
+Urban Stop-and-Go,30.4,1.47,3.24,0.43,3328.63
+Aggressive Acceleration/Braking,95.2,3.26,5.03,0.32,4061.62
+Aggressive Acceleration/Braking,138.05,3.34,4.42,0.36,4127.92
+Sharp Cornering / Drift,83.06,37.35,1.44,0.58,3153.5
+Aggressive Acceleration/Braking,87.13,2.66,5.29,0.34,4153.09
+Bumpy Terrain / Uneven Surface,38.34,1.53,1.06,0.7,2844.73
+Aggressive Acceleration/Braking,93.28,0.77,4.66,0.36,3787.69
+Sharp Cornering / Drift,79.24,46.08,1.45,0.49,3153.24
+Urban Stop-and-Go,28.6,0.33,4.23,0.43,3239.21
+Urban Stop-and-Go,20.61,1.05,3.24,0.34,3379.61
+Bumpy Terrain / Uneven Surface,36.03,0.75,1.17,0.74,2884.87
+Bumpy Terrain / Uneven Surface,38.34,1.78,1.19,0.78,2873.64
+Bumpy Terrain / Uneven Surface,55.57,2.52,0.99,0.81,2894.5
+Aggressive Acceleration/Braking,103.55,4.09,4.94,0.22,4171.78
+Sharp Cornering / Drift,93.23,51.42,1.89,0.54,3154.42
+Sharp Cornering / Drift,85.39,48.78,1.08,0.59,3205.39
+Bumpy Terrain / Uneven Surface,46.56,2.69,1.31,0.71,2607.61
+Urban Stop-and-Go,22.7,0.81,3.0,0.48,3394.66
+Aggressive Acceleration/Braking,101.45,3.68,4.83,0.32,3723.41
+Sharp Cornering / Drift,84.92,35.7,1.57,0.46,3095.53
+Racetrack High-Speed Maneuver,188.69,1.09,2.66,0.15,3471.88
+Sharp Cornering / Drift,94.89,38.67,1.57,0.54,2950.04
+Bumpy Terrain / Uneven Surface,13.3,3.8,1.37,0.85,2524.22
+Aggressive Acceleration/Braking,113.74,3.34,4.74,0.24,3720.43
+Urban Stop-and-Go,20.73,1.05,2.69,0.32,3140.7
+Sharp Cornering / Drift,109.73,47.08,1.81,0.45,3246.71
+Sharp Cornering / Drift,99.73,44.45,1.87,0.6,3125.46
+Urban Stop-and-Go,34.72,0.83,2.76,0.48,3158.01
+Sharp Cornering / Drift,92.17,43.48,1.43,0.53,3176.62
+Bumpy Terrain / Uneven Surface,50.69,1.23,1.23,0.92,2782.79
+Racetrack High-Speed Maneuver,190.62,4.85,2.28,0.16,3349.3
+Sharp Cornering / Drift,89.21,43.5,1.2,0.56,3136.02
+Aggressive Acceleration/Braking,103.95,4.72,3.87,0.2,3943.86
+Sharp Cornering / Drift,88.47,41.25,1.17,0.42,3175.57
+Sharp Cornering / Drift,86.06,46.6,1.35,0.42,3015.07
+Bumpy Terrain / Uneven Surface,33.5,2.62,1.12,0.82,2763.9
+Aggressive Acceleration/Braking,102.35,4.82,4.1,0.21,4066.32
+Racetrack High-Speed Maneuver,192.63,6.75,2.16,0.16,3614.64
+Urban Stop-and-Go,33.88,0.77,2.62,0.37,3265.68
+Urban Stop-and-Go,19.57,1.0,2.15,0.31,3283.49
+Racetrack High-Speed Maneuver,177.22,7.58,2.71,0.28,3696.53
+Racetrack High-Speed Maneuver,170.23,6.67,2.35,0.23,3512.17
+Urban Stop-and-Go,21.33,0.67,2.56,0.4,3337.81
+Racetrack High-Speed Maneuver,189.4,7.49,2.66,0.23,3521.04
+Aggressive Acceleration/Braking,137.19,0.16,4.49,0.34,3878.84
+Aggressive Acceleration/Braking,114.55,3.59,4.47,0.24,3933.64
+Urban Stop-and-Go,21.3,0.95,3.92,0.45,3376.63
+Bumpy Terrain / Uneven Surface,34.02,3.95,0.91,0.89,2791.12
+Urban Stop-and-Go,24.96,1.09,4.38,0.48,3128.78
+Sharp Cornering / Drift,107.49,43.05,1.43,0.44,3363.82
+Urban Stop-and-Go,28.45,0.74,2.46,0.49,2839.25
+Aggressive Acceleration/Braking,115.27,2.06,4.67,0.29,3739.54
+Urban Stop-and-Go,23.75,0.94,3.58,0.49,3187.42
+Sharp Cornering / Drift,95.59,31.89,1.13,0.52,3195.76
+Aggressive Acceleration/Braking,93.43,2.36,4.37,0.39,3530.75
+Bumpy Terrain / Uneven Surface,48.61,2.25,1.15,0.77,2713.54
+Aggressive Acceleration/Braking,122.28,3.01,4.81,0.33,3977.71
+Bumpy Terrain / Uneven Surface,32.0,1.73,0.99,0.78,2959.81
+Sharp Cornering / Drift,99.51,47.63,1.44,0.56,3080.18
+Racetrack High-Speed Maneuver,187.89,5.53,2.02,0.12,3548.8
+Aggressive Acceleration/Braking,118.15,3.59,4.44,0.38,4211.26
+Aggressive Acceleration/Braking,127.35,3.55,4.9,0.37,3788.98
+Racetrack High-Speed Maneuver,160.23,7.17,2.61,0.21,3492.84
+Aggressive Acceleration/Braking,130.84,3.11,5.21,0.2,4003.6
+Urban Stop-and-Go,26.42,1.27,3.27,0.33,3322.02
+Racetrack High-Speed Maneuver,179.12,8.18,2.7,0.13,3355.72
+Urban Stop-and-Go,27.46,0.35,3.12,0.45,3118.93
+Sharp Cornering / Drift,76.35,48.51,1.66,0.6,3149.58
+Urban Stop-and-Go,33.02,0.86,3.07,0.41,3069.66
+Sharp Cornering / Drift,81.17,39.8,1.53,0.42,3118.08
+Bumpy Terrain / Uneven Surface,43.92,1.34,1.25,0.81,2678.2
+Sharp Cornering / Drift,84.09,46.44,1.22,0.55,2984.1
+Sharp Cornering / Drift,80.06,46.25,1.15,0.54,3074.72
+Urban Stop-and-Go,25.08,0.51,3.32,0.41,3202.33
+Bumpy Terrain / Uneven Surface,53.36,2.38,1.42,0.8,2715.41
+Racetrack High-Speed Maneuver,176.61,7.33,2.45,0.21,3186.12
+Aggressive Acceleration/Braking,123.08,3.8,6.31,0.4,4149.76
+Urban Stop-and-Go,26.1,0.84,2.9,0.34,3049.26
+Aggressive Acceleration/Braking,152.24,4.83,3.97,0.39,3491.21
+Bumpy Terrain / Uneven Surface,31.67,1.41,0.84,0.92,2797.02
+Racetrack High-Speed Maneuver,194.27,4.16,2.88,0.14,3212.89
+Sharp Cornering / Drift,79.34,56.9,1.67,0.44,3196.24
+Sharp Cornering / Drift,76.93,43.51,1.21,0.5,3008.19
+Bumpy Terrain / Uneven Surface,46.8,1.8,0.86,0.91,2849.87
+Bumpy Terrain / Uneven Surface,34.58,1.95,1.24,0.76,3062.13
+Bumpy Terrain / Uneven Surface,45.88,2.62,0.82,0.75,2813.95
+Aggressive Acceleration/Braking,140.26,2.35,3.94,0.2,3915.14
+Bumpy Terrain / Uneven Surface,46.86,1.86,1.43,0.84,2879.65
+Sharp Cornering / Drift,84.38,47.4,0.71,0.53,3354.9
+Aggressive Acceleration/Braking,127.79,2.02,4.88,0.3,3741.3
+Aggressive Acceleration/Braking,109.84,3.42,4.31,0.26,3953.74
+Sharp Cornering / Drift,95.49,46.62,1.48,0.44,3029.69
+Aggressive Acceleration/Braking,122.2,2.48,6.65,0.31,4172.02
+Bumpy Terrain / Uneven Surface,21.55,2.79,1.21,0.85,3069.27
+Bumpy Terrain / Uneven Surface,26.06,1.41,1.16,0.73,2743.8
+Sharp Cornering / Drift,80.45,46.85,1.54,0.4,3149.66
+Urban Stop-and-Go,26.14,1.32,2.59,0.38,3053.69
+Sharp Cornering / Drift,93.34,48.38,1.41,0.5,3049.08
+Sharp Cornering / Drift,93.81,42.78,1.23,0.47,3160.34
+Bumpy Terrain / Uneven Surface,40.49,-0.22,1.16,0.85,2799.64
+Sharp Cornering / Drift,79.87,35.82,1.98,0.44,2994.24
+Sharp Cornering / Drift,106.64,46.53,1.68,0.43,3241.42
+Sharp Cornering / Drift,99.56,45.69,1.21,0.42,2979.36
+Bumpy Terrain / Uneven Surface,61.45,2.89,1.39,0.76,2870.7
+Sharp Cornering / Drift,109.38,31.71,1.45,0.58,2963.56
+Bumpy Terrain / Uneven Surface,49.83,0.6,1.32,0.72,2769.16
+Racetrack High-Speed Maneuver,185.78,7.61,3.04,0.21,3549.09
+Urban Stop-and-Go,32.64,1.18,2.54,0.41,3280.38
+Urban Stop-and-Go,25.42,0.53,2.87,0.45,3136.81
+Sharp Cornering / Drift,88.77,46.55,1.3,0.54,3076.43
+Aggressive Acceleration/Braking,104.05,3.41,4.62,0.2,4468.79
+Sharp Cornering / Drift,103.78,45.58,1.62,0.53,2877.96
+Urban Stop-and-Go,26.43,0.93,3.28,0.43,3396.3
+Sharp Cornering / Drift,101.44,50.09,1.31,0.49,3078.73
+Sharp Cornering / Drift,77.71,50.62,1.73,0.45,3138.34
+Racetrack High-Speed Maneuver,183.13,8.56,1.68,0.25,3508.29
+Racetrack High-Speed Maneuver,178.28,2.28,2.01,0.23,3375.45
+Aggressive Acceleration/Braking,127.36,3.46,4.33,0.34,4105.94
+Sharp Cornering / Drift,84.45,45.11,1.74,0.59,3112.95
+Racetrack High-Speed Maneuver,186.67,4.87,2.26,0.19,3528.38
+Racetrack High-Speed Maneuver,201.73,6.4,2.89,0.23,3404.44
+Racetrack High-Speed Maneuver,184.91,6.98,2.75,0.28,3471.69
+Aggressive Acceleration/Braking,147.02,3.21,4.92,0.21,3921.95
+Urban Stop-and-Go,27.67,0.54,3.4,0.45,3235.31
+Aggressive Acceleration/Braking,116.02,4.21,5.42,0.33,4071.11
+Racetrack High-Speed Maneuver,159.26,4.96,3.06,0.24,3472.0
+Aggressive Acceleration/Braking,125.64,4.34,4.57,0.3,3960.47
+Urban Stop-and-Go,30.21,0.58,2.69,0.34,3127.0
+Racetrack High-Speed Maneuver,186.99,4.32,2.87,0.26,3629.63
+Sharp Cornering / Drift,99.33,36.2,1.59,0.48,3049.36
+Racetrack High-Speed Maneuver,186.1,1.89,2.6,0.28,3515.12
+Bumpy Terrain / Uneven Surface,41.9,1.31,0.98,0.99,3028.32
+Urban Stop-and-Go,16.33,1.11,3.04,0.41,3149.11
+Aggressive Acceleration/Braking,103.4,4.96,5.03,0.21,3588.79
+Sharp Cornering / Drift,71.79,41.47,1.08,0.41,3270.41
+Sharp Cornering / Drift,108.96,44.38,1.38,0.45,3197.0
+Racetrack High-Speed Maneuver,187.06,7.38,2.74,0.29,3659.18
+Sharp Cornering / Drift,96.57,51.83,1.99,0.55,3126.18
+Aggressive Acceleration/Braking,155.09,2.67,4.95,0.28,3897.52
+Racetrack High-Speed Maneuver,177.24,4.72,2.0,0.18,3618.22
+Urban Stop-and-Go,23.37,0.53,2.67,0.32,3273.24
+Sharp Cornering / Drift,77.23,49.74,0.99,0.47,3146.15
+Urban Stop-and-Go,26.96,1.23,2.21,0.47,3206.03
+Sharp Cornering / Drift,91.85,37.75,1.72,0.49,3238.65
+Urban Stop-and-Go,22.88,1.53,3.1,0.48,3343.82
+Urban Stop-and-Go,25.0,1.55,3.07,0.42,3166.85
+Racetrack High-Speed Maneuver,160.66,6.39,2.7,0.24,3502.43
+Racetrack High-Speed Maneuver,168.32,5.02,1.53,0.2,3398.86
+Bumpy Terrain / Uneven Surface,29.71,1.12,1.33,0.88,2746.39
+Urban Stop-and-Go,26.55,0.36,2.79,0.44,3080.58
+Urban Stop-and-Go,18.58,1.63,3.16,0.39,3394.5
+Bumpy Terrain / Uneven Surface,42.1,2.06,1.33,0.85,2770.91
+Aggressive Acceleration/Braking,123.82,2.38,3.94,0.21,3409.01
+Sharp Cornering / Drift,82.61,38.57,1.66,0.52,3009.13
+Racetrack High-Speed Maneuver,171.54,6.85,2.33,0.28,3423.48
+Racetrack High-Speed Maneuver,199.0,0.98,1.21,0.15,3809.33
+Bumpy Terrain / Uneven Surface,47.24,2.06,1.35,0.93,2740.88
+Urban Stop-and-Go,25.82,0.79,4.03,0.42,3246.35
+Sharp Cornering / Drift,83.67,40.13,2.14,0.56,3134.58
+Racetrack High-Speed Maneuver,175.71,5.83,2.8,0.21,3643.69
+Aggressive Acceleration/Braking,123.06,4.31,4.45,0.32,3748.92
+Urban Stop-and-Go,24.49,0.58,3.38,0.4,3278.53
+Aggressive Acceleration/Braking,119.92,2.11,5.13,0.24,3710.28
+Racetrack High-Speed Maneuver,175.99,6.63,2.23,0.18,3398.74
+Sharp Cornering / Drift,94.35,53.36,1.84,0.48,3048.17
+Urban Stop-and-Go,26.36,1.21,3.6,0.33,3101.77
+Racetrack High-Speed Maneuver,188.75,5.69,3.47,0.2,3693.11
+Sharp Cornering / Drift,93.52,47.62,1.5,0.51,3062.44
+Sharp Cornering / Drift,96.1,34.6,1.7,0.56,2992.04
+Sharp Cornering / Drift,98.23,51.12,1.84,0.46,3047.57
+Bumpy Terrain / Uneven Surface,35.19,0.6,1.27,0.78,2865.19
+Aggressive Acceleration/Braking,130.44,3.28,4.35,0.34,3837.47
+Bumpy Terrain / Uneven Surface,44.76,1.2,1.16,0.88,2557.98
+Aggressive Acceleration/Braking,148.61,1.56,4.32,0.22,3768.71
+Racetrack High-Speed Maneuver,179.17,7.3,1.93,0.23,3458.75
+Urban Stop-and-Go,30.42,1.11,3.1,0.44,3198.9
+Bumpy Terrain / Uneven Surface,34.19,2.34,1.71,0.75,2880.83
+Bumpy Terrain / Uneven Surface,52.25,1.82,1.0,0.75,2653.56
+Urban Stop-and-Go,29.56,0.67,3.22,0.37,3163.34
+Urban Stop-and-Go,26.68,1.46,2.87,0.36,3055.53
+Sharp Cornering / Drift,79.45,46.29,1.95,0.52,2886.64
+Bumpy Terrain / Uneven Surface,46.14,2.38,1.23,0.95,2974.34
+Bumpy Terrain / Uneven Surface,23.68,1.1,0.84,0.99,2758.77

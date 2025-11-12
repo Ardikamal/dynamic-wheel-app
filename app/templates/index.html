@@ -1,0 +1,85 @@
+<!-- app/templates/index.html -->
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Simulasi Beban Roda Dinamis</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Simulasi & Prediksi Beban Roda Dinamis</h1>
+
+    <section class="card">
+      <h2>1. Informasi Model</h2>
+      {% if has_model %}
+        <p class="ok">Model tersedia — siap dipakai untuk prediksi.</p>
+      {% else %}
+        <p class="warn">Model belum ditemukan. Jalankan <code>train_and_save_model.py</code> untuk membuat model di <code>app/models/model_rf.pkl</code>.</p>
+      {% endif %}
+    </section>
+
+    <section class="card">
+      <h2>2. Upload Dataset (opsional)</h2>
+      <form id="uploadForm">
+        <input type="file" id="fileInput" name="file" accept=".csv" />
+        <button type="submit">Upload CSV</button>
+      </form>
+      <div id="uploadResult"></div>
+    </section>
+
+    <section class="card">
+      <h2>3. Preview Dataset</h2>
+      {% if sample_head %}
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                {% for k in sample_head[0].keys() %}
+                  <th>{{ k }}</th>
+                {% endfor %}
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in sample_head %}
+                <tr>
+                  {% for v in row.values() %}
+                    <td>{{ v }}</td>
+                  {% endfor %}
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      {% else %}
+        <p>Tidak ada dataset contoh. Taruh CSV di folder <code>data/</code> atau upload di atas.</p>
+      {% endif %}
+    </section>
+
+    <section class="card">
+      <h2>4. Prediksi Interaktif</h2>
+      {% if not has_model %}
+        <p class="warn">Model tidak tersedia — prediksi tidak bisa dilakukan.</p>
+      {% else %}
+        <form id="predictForm">
+          <div id="inputs"></div>
+          <button type="submit">Prediksi</button>
+        </form>
+        <div id="predictResult"></div>
+      {% endif %}
+    </section>
+
+    <footer>
+      <p>Tip: jalankan <code>python train_and_save_model.py</code> jika model belum ada. Aplikasi ini sederhana, cocok untuk demo.</p>
+    </footer>
+  </div>
+
+  <script>
+    // Pass numeric_cols and has_model ke JS lewat template rendering
+    const numericCols = {{ numeric_cols|tojson }};
+    const hasModel = {{ has_model|tojson }};
+  </script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
