@@ -1,9 +1,10 @@
 # Dynamic Wheel Load - Flask App
+By Ardi Kamal Karima
 
 Instalasi & jalankan:
 
 1. Pastikan Python 3.x terpasang.
-2. Buat virtualenv (opsional):
+2. Buat virtual env (opsional):
    - `python -m venv venv`
    - Activate: `venv\Scripts\activate` (Windows) atau `source venv/bin/activate` (Linux/Mac)
 3. Install dependency:
@@ -20,3 +21,4 @@ Instalasi & jalankan:
 Catatan:
 - Jika struktur dataset berbeda, sesuaikan pemilihan fitur di `train_and_save_model.py`.
 - Matikan `debug=True` di `run.py` saat deploy ke production.
+
